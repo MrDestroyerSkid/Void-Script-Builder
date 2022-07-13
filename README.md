@@ -8,7 +8,7 @@ We ALLOW user to use this freely and open public but know that you MUST agree:
 
 -We had no secure or any kind of "bypass" protection
 
--Use any "illegal" script will cause ban of violate VBS rules and only used for education or testing purpose privately.
+-Use any "illegal" tagged script will cause ban of violate VBS rules and only used for education or testing purpose privately.
 
 -Use some topic script like chaotic or nuking, destroying, abuse must use refresh command and will somehow get you to be punished
 
