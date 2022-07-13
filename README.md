@@ -1,4 +1,6 @@
 # Void-Script-Builder Library
+For "illegal" uses, read Terms And Agreement
+
 Here We Had All Working Void Script Builder Scripts, We Convert Some Of Them And Other Remain FE Already. This is where all script will be archived (including FD script) and will be able to run as Server-side
 Pastebin VBS: https://pastebin.com/u/FeetPastebin
 # Terms And Agreement
